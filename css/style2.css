@@ -1,0 +1,59 @@
+body {
+  background-color: lightblue;
+  text-align: justify;
+  left:200px;
+  right:200px;
+  font-size: 130%;
+  margin-right: 40px;
+  margin-left: 00px;
+  color: Red
+}
+
+h2 {
+  color: Red;
+  font-weight: 900;
+  text-align: center;
+  left:200px;
+  right:200px;
+  font-size: 200%;
+}
+
+h3 {
+  color: Black;
+  font-size: 135%;
+  left:200px;
+  right:200px;
+ 
+}
+
+ul {
+	color: green;
+  text-align: justify;
+  font-size: 100%;
+  margin-left: 40px;
+	
+	
+	
+}
+
+div {
+  color: Red;
+  text-align: justify;
+  font-size: 120%;
+}
+
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+
+  

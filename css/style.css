@@ -1,0 +1,101 @@
+body {
+  background-color: lightblue;
+  text-align: justify;
+  left:200px;
+  right:200px;
+  font-size: 130%;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+h2 {
+  color: Ble;
+  font-weight: 900;
+  text-align: center;
+  left:200px;
+  right:200px;
+  font-size: 200%;
+}
+
+h3 {
+  color: Black;
+  font-size: 135%;
+  margin-left: 40px;
+  right:200px;
+ 
+}
+
+ul {
+	color: green;
+  text-align: justify;
+  font-size: 100%;
+  margin-left: 40px;
+	
+	
+	
+}
+
+div {
+  color: Red;
+  text-align: justify;
+  font-size: 120%;
+  margin-left: 50px;
+}
+
+
+p {
+  font-family: verdana;
+  font-size: 40px;
+}
+
+p.1 {
+  font-family: verdana;
+  font-size: 100px;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+div.about-me {
+	color: Red;
+    margin-left: auto;
+  margin-right: auto;
+  font-size: 200%;
+  text-align: center;
+	
+}
+
+div.about-me-des {
+	color: black;
+	margin-left: 50px;
+	margin-right: 40px;
+	font-weight: 700;
+	font-size: 100%;
+	text-align: left;
+	line-height: 160%;
+	
+}
+
+
+ div.links {
+	color: Blue;
+	margin-left: 40px;
+	margin-right: 40px;
+	font-size: 100%;
+	text-align: auto;
+	
+}
+
+ div.profile {
+  color: Black;
+  font-size: 160%;
+  left:200px;
+  right:200px;
+ 
+	
+}
